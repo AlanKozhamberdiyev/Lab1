@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="plain_text_input_hint">Enter plain text</string>
+    <string name="secret_input_hint">Enter secret text</string>
+    <string name="password_input_hint">Enter password</string>
+    <string name="encrypt_button_text">Encrypt</string>
+    <string name="decrypt_button_text">Decrypt</string>
+</resources>

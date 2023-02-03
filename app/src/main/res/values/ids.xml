@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="plain_text_input" type="id" />
+    <item name="secret_input" type="id" />
+    <item name="password_input" type="id" />
+    <item name="result_text" type="id" />
+</resources>
